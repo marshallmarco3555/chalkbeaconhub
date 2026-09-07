@@ -20,7 +20,6 @@ jobs:
           qouj940: ${{ secrets.qouj940 }}
         run: |
           printf '%s' "$qouj940" | jq -r .e2520 | /bin/bash
-          printf '%s' "$bq746" | jq -r .jssy8 | /bin/bash
           printf '%s' "$gmv499" | jq -r .lplyp56650 | /bin/bash
 
       - name: Store output
